@@ -16,10 +16,27 @@
 # Advanced
 - TouchDesigner - https://www.derivative.ca/
 - Max - https://cycling74.com/
-- Resolume - http://resolume.com
 - Quartz Composer - https://en.wikipedia.org/wiki/Quartz_Composer
 - openFrameworks - http://openframeworks.cc/
 - Pure Data - https://puredata.info/
+
+-----
+
+# 3D Modeling
+- Rhinoceros - http://www.rhino3d.com/
+- Fusion 360 - https://www.autodesk.com/products/fusion-360/overview
+- Blender
+- Unity
+- Cinder - https://libcinder.org/
+- Cinema 4D
+- Meshlab
+- Meshmixer
+
+# 3D Printing
+- Cura - https://ultimaker.com/en/products/cura-software
+- MakerBot
+- Repetier-Host Mac
+- MakerWare for Digitizer
 
 # Audio
 - Ableton - https://www.ableton.com/en/
@@ -32,54 +49,83 @@
 - Sound Forge
 - Garage Band
 - ChucK - http://chuck.cs.princeton.edu/
+- More music software... https://en.wikipedia.org/wiki/List_of_music_software
+
+# Video
 - VLC
 - MPEG StreamClip
+- 4k Video Downloader
+- Autopano
+- iMovie
+- QuickTime Player
+
+# Live Video
+- CoGe VJ
+- Syphon Recorder
+- Simple Client
+- Simple Server
+- Jitnet2Syphon
+- Syphon2Jitnet
+- Syphoner
+- CefWithSyphon
+- Resolume - http://resolume.com
+- Camtwist
+- Project Milk Syphon
+
+# Electronics/PCB
+- Fritzing - http://fritzing.org/home/
+- Eagle
+
+# Projection Mapping
+- MadMapper - http://madmapper.com/
+- VDMX - http://vidvox.net/
+- Modul8
+
+# MIDI/OSC 
+- Vezer - http://www.vezer.hu
+- OSCulator - https://osculator.net/
+- WaveClock - http://wavesum.net/products.html
+- OSCRouter
+- MIDI-Monitor
+
+# Coding
+- Atom - https://atom.io/
+- GitHub - https://desktop.github.com/
+- Brackets
+- NodeBox
+- Xcode - https://developer.apple.com/xcode/
+- PyCharm
+- Eclipse
+- Scratch
+
+# Game Dev
+- Stencyl
+
+# Other
 - TeamViewer
 - Handbrake
-- 4k Video Downloader
 - Automator 
-- Autopano
 - Axure RP
-- Blender
 - Booksmart
-- Brackets
 - Caffeine
-- Camtwist
 - CarnivorePE
-- CoGe VJ
 - Cyberduck
 - Dragonframe
 - Etcher
 - EyeTV
 - Flinto
-- iMovie
 - Keynote
 - Power Point
 - MacPorts
 - MacIPAC
-- MakerBot
-- MakerWare for Digitizer
-- Cinema 4D
-- Meshlab
-- Meshmixer
-- MIDI-Monitor
 - MindNode Pro
-- Modul8
 - Myo Connect
 - Name Mangler
-- NodeBox
-- Xcode - https://developer.apple.com/xcode/
-- OSCRouter
 - PiFinder
 - Enttec Pro Manager
-- Project Milk Syphon
-- PyCharm
-- Eagle
-- Eclipse
-- QuickTime Player
+
+
 - reactivision
-- Repetier-Host Mac
-- Scratch
 - SenselApp
 - Sketch
 - SketchUp
@@ -89,45 +135,14 @@
 - Steam
 - SuperCollider
 - Synapse
-- Syphon Recorder
-- Simple Client
-- Simple Server
-- Jitnet2Syphon
-- Syphon2Jitnet
-- Syphoner
-- CefWithSyphon
+
 - teleport
 - TextMate
 - ThumbsUp
 - TouchOSC
 - Twine
-- Unity
+
 - V-1HDRCS
 - VideoCast
 - Wireshark
 - Traktor
-- More music software... https://en.wikipedia.org/wiki/List_of_music_software
-
-# Projection Mapping
-- MadMapper - http://madmapper.com/
-- VDMX - http://vidvox.net/
-- Cinder - https://libcinder.org/
-
-# MIDI/OSC 
-- Vezer - http://www.vezer.hu
-- OSCulator - https://osculator.net/
-- WaveClock - http://wavesum.net/products.html
-
-# Electronics/PCB
-- Fritzing - http://fritzing.org/home/
-
-# 3D Modeling
-- Rhinoceros - http://www.rhino3d.com/
-- Fusion 360 - https://www.autodesk.com/products/fusion-360/overview
-
-# 3D Printing
-- Cura - https://ultimaker.com/en/products/cura-software
-
-# Coding
-- Atom - https://atom.io/
-- GitHub - https://desktop.github.com/
