@@ -1,7 +1,8 @@
-Software | Link
+Software | :computer:
+
 ------------ | -------------
 
-### Suites |
+### Suites 
 - Adobe Creative Cloud - http://www.adobe.com/creativecloud/buy/students.html
   - Illustrator
   - Photoshop
