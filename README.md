@@ -6,13 +6,13 @@
   - After Effects
   - Animate
 
-# Creative Coding Software
+### Creative Coding Software
 - Processing - http://www.processing.org
 - Python - https://www.python.org/
 - Arduino - https://www.arduino.cc/en/Main/Software 
 - Applescript - https://en.wikipedia.org/wiki/AppleScript
 
-# Advanced
+### Advanced
 - TouchDesigner - https://www.derivative.ca/
 - Max - https://cycling74.com/
 - Quartz Composer - https://en.wikipedia.org/wiki/Quartz_Composer
@@ -21,7 +21,7 @@
 
 -----
 
-# 3D Modeling
+### 3D Modeling
 - Rhinoceros - http://www.rhino3d.com/
 - Fusion 360 - https://www.autodesk.com/products/fusion-360/overview
 - Blender
@@ -31,13 +31,13 @@
 - Meshlab
 - Meshmixer
 
-# 3D Printing
+### 3D Printing
 - Cura - https://ultimaker.com/en/products/cura-software
 - MakerBot
 - Repetier-Host Mac
 - MakerWare for Digitizer
 
-# Audio
+### Audio
 - Ableton - https://www.ableton.com/en/
 - Audio Hijack - https://rogueamoeba.com/audiohijack/
 - SoundFlower - https://rogueamoeba.com/freebies/soundflower/
@@ -50,7 +50,7 @@
 - ChucK - http://chuck.cs.princeton.edu/
 - More music software... https://en.wikipedia.org/wiki/List_of_music_software
 
-# Video
+### Video
 - VLC
 - MPEG StreamClip
 - 4k Video Downloader
@@ -58,25 +58,25 @@
 - iMovie
 - QuickTime Player
 
-# Video Projection
+### Video Projection
 - CoGe VJ
 - Resolume - http://resolume.com
 
-# Web
+### Web
 - Three.js - https://threejs.org/
 - Node.js - https://nodejs.org/en/
 - p5.js - http://p5js.org
 
-# Electronics/PCB
+### Electronics/PCB
 - Fritzing - http://fritzing.org/home/
 - Eagle
 
-# Projection Mapping
+### Projection Mapping
 - MadMapper - http://madmapper.com/
 - VDMX - http://vidvox.net/
 - Modul8
 
-# MIDI/OSC 
+### MIDI/OSC 
 - Vezer - http://www.vezer.hu
 - OSCulator - https://osculator.net/
 - WaveClock - http://wavesum.net/products.html
@@ -86,7 +86,7 @@
 - Myo Connect
 - TouchOSC
 
-# Coding
+### Coding
 - Atom - https://atom.io/
 - GitHub - https://desktop.github.com/
 - Brackets
@@ -96,10 +96,10 @@
 - Eclipse
 - Scratch
 
-# Game Dev
+### Game Dev
 - Stencyl
 
-# Live Video
+### Live Video
 - Syphon Recorder
 - Simple Client
 - Simple Server
@@ -110,7 +110,7 @@
 - Camtwist
 - Project Milk Syphon
 
-# Other
+### Other
 - TeamViewer
 - Handbrake
 - Automator 
