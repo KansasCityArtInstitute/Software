@@ -1,10 +1,10 @@
 # Suites
 - Adobe Creative Cloud - http://www.adobe.com/creativecloud/buy/students.html
--- Illustrator
--- Photoshop
--- Premiere
--- After Effects
--- Animate
+  - Illustrator
+  - Photoshop
+  - Premiere
+  - After Effects
+  - Animate
 
 # Creative Coding Software
 - Processing - http://www.processing.org
@@ -69,8 +69,42 @@
 - Name Mangler
 - NodeBox
 - Xcode - https://developer.apple.com/xcode/
-- 
-
+- OSCRouter
+- PiFinder
+- Enttec Pro Manager
+- Project Milk Syphon
+- PyCharm
+- Eagle
+- Eclipse
+- QuickTime Player
+- reactivision
+- Repetier-Host Mac
+- Scratch
+- SenselApp
+- Sketch
+- SketchUp
+- Skitch
+- Slack
+- Skype
+- Steam
+- SuperCollider
+- Synapse
+- Syphon Recorder
+- Simple Client
+- Simple Server
+- Jitnet2Syphon
+- Syphon2Jitnet
+- Syphoner
+- CefWithSyphon
+- teleport
+- TextMate
+- ThumbsUp
+- TouchOSC
+- Twine
+- Unity
+- V-1HDRCS
+- VideoCast
+- Wireshark
 
 # Projection Mapping
 - MadMapper - http://madmapper.com/
