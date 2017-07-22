@@ -105,6 +105,8 @@
 - V-1HDRCS
 - VideoCast
 - Wireshark
+- Traktor
+- More music software... https://en.wikipedia.org/wiki/List_of_music_software
 
 # Projection Mapping
 - MadMapper - http://madmapper.com/
