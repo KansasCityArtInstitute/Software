@@ -8,7 +8,6 @@
 
 # Creative Coding Software
 - Processing - http://www.processing.org
-- p5.js - http://p5js.org
 - Python - https://www.python.org/
 - Arduino - https://www.arduino.cc/en/Main/Software 
 - Applescript - https://en.wikipedia.org/wiki/AppleScript
@@ -59,18 +58,14 @@
 - iMovie
 - QuickTime Player
 
-# Live Video
+# Video Projection
 - CoGe VJ
-- Syphon Recorder
-- Simple Client
-- Simple Server
-- Jitnet2Syphon
-- Syphon2Jitnet
-- Syphoner
-- CefWithSyphon
 - Resolume - http://resolume.com
-- Camtwist
-- Project Milk Syphon
+
+# Web
+- Three.js - https://threejs.org/
+- Node.js - https://nodejs.org/en/
+- p5.js - http://p5js.org
 
 # Electronics/PCB
 - Fritzing - http://fritzing.org/home/
@@ -87,6 +82,9 @@
 - WaveClock - http://wavesum.net/products.html
 - OSCRouter
 - MIDI-Monitor
+- SenselApp
+- Myo Connect
+- TouchOSC
 
 # Coding
 - Atom - https://atom.io/
@@ -100,6 +98,17 @@
 
 # Game Dev
 - Stencyl
+
+# Live Video
+- Syphon Recorder
+- Simple Client
+- Simple Server
+- Jitnet2Syphon
+- Syphon2Jitnet
+- Syphoner
+- CefWithSyphon
+- Camtwist
+- Project Milk Syphon
 
 # Other
 - TeamViewer
@@ -119,14 +128,10 @@
 - MacPorts
 - MacIPAC
 - MindNode Pro
-- Myo Connect
 - Name Mangler
 - PiFinder
 - Enttec Pro Manager
-
-
 - reactivision
-- SenselApp
 - Sketch
 - SketchUp
 - Skitch
@@ -135,13 +140,10 @@
 - Steam
 - SuperCollider
 - Synapse
-
 - teleport
 - TextMate
 - ThumbsUp
-- TouchOSC
 - Twine
-
 - V-1HDRCS
 - VideoCast
 - Wireshark
