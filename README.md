@@ -13,12 +13,10 @@ Software | :computer:
 - Processing - http://www.processing.org
 - Python - https://www.python.org/
 - Arduino - https://www.arduino.cc/en/Main/Software 
-- Cinder - https://libcinder.org/
-
-### Advanced
-- TouchDesigner - https://www.derivative.ca/
 - Max - https://cycling74.com/
-- Quartz Composer - https://en.wikipedia.org/wiki/Quartz_Composer
+
+### Advanced Creative Coding
+- Cinder - https://libcinder.org/
 - openFrameworks - http://openframeworks.cc/
 - Pure Data - https://puredata.info/
 
@@ -45,6 +43,8 @@ Software | :computer:
 - Resolume - http://resolume.com
 - Audio Visual Academy List - http://audiovisualacademy.com/avin/en/modules/software/
 - VDMX - http://vidvox.net/
+- TouchDesigner - https://www.derivative.ca/
+- Quartz Composer - https://en.wikipedia.org/wiki/Quartz_Composer
 
 ### Audio
 - Ableton - https://www.ableton.com/en/
