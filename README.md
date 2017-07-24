@@ -32,12 +32,19 @@ Software | :computer:
 - Cinema 4D
 - Meshlab
 - Meshmixer
+- SketchUp
 
 ### 3D Printing
 - Cura - https://ultimaker.com/en/products/cura-software
 - MakerBot
 - Repetier-Host Mac
 - MakerWare for Digitizer
+
+### A/V
+- CoGe VJ
+- Resolume - http://resolume.com
+- Audio Visual Academy List - http://audiovisualacademy.com/avin/en/modules/software/
+- VDMX - http://vidvox.net/
 
 ### Audio
 - Ableton - https://www.ableton.com/en/
@@ -50,6 +57,7 @@ Software | :computer:
 - Sound Forge
 - Garage Band
 - ChucK - http://chuck.cs.princeton.edu/
+- Traktor
 - More music software... https://en.wikipedia.org/wiki/List_of_music_software
 
 ### Video
@@ -59,10 +67,6 @@ Software | :computer:
 - Autopano
 - iMovie
 - QuickTime Player
-
-### Video Projection
-- CoGe VJ
-- Resolume - http://resolume.com
 
 ### Web
 - Three.js - https://threejs.org/
@@ -75,7 +79,6 @@ Software | :computer:
 
 ### Projection Mapping
 - MadMapper - http://madmapper.com/
-- VDMX - http://vidvox.net/
 - Modul8
 
 ### MIDI/OSC 
@@ -135,7 +138,6 @@ Software | :computer:
 - Enttec Pro Manager
 - reactivision
 - Sketch
-- SketchUp
 - Skitch
 - Slack
 - Skype
@@ -149,4 +151,4 @@ Software | :computer:
 - V-1HDRCS
 - VideoCast
 - Wireshark
-- Traktor
+
