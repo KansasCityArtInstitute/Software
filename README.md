@@ -13,7 +13,7 @@ Software | :computer:
 - Processing - http://www.processing.org
 - Python - https://www.python.org/
 - Arduino - https://www.arduino.cc/en/Main/Software 
-- Applescript - https://en.wikipedia.org/wiki/AppleScript
+- Cinder - https://libcinder.org/
 
 ### Advanced
 - TouchDesigner - https://www.derivative.ca/
@@ -29,7 +29,6 @@ Software | :computer:
 - Fusion 360 - https://www.autodesk.com/products/fusion-360/overview
 - Blender
 - Unity
-- Cinder - https://libcinder.org/
 - Cinema 4D
 - Meshlab
 - Meshmixer
@@ -70,9 +69,9 @@ Software | :computer:
 - QuickTime Player
 
 ### Web
+- p5.js - http://p5js.org
 - Three.js - https://threejs.org/
 - Node.js - https://nodejs.org/en/
-- p5.js - http://p5js.org
 
 ### Electronics/PCB
 - Fritzing - http://fritzing.org/home/
@@ -101,6 +100,7 @@ Software | :computer:
 - PyCharm
 - Eclipse
 - Scratch
+- Applescript - https://en.wikipedia.org/wiki/AppleScript
 
 ### Game Dev
 - Stencyl
