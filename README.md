@@ -1,7 +1,8 @@
 Software | :computer:
 ------------ | -------------
-### Suites |
-- Adobe Creative Cloud - http://www.adobe.com/creativecloud/buy/students.html
+### Adobe Creative Cloud
+  - Download: http://www.adobe.com/creativecloud/buy/students.html
+  Includes:
   - Illustrator
   - Photoshop
   - Premiere
