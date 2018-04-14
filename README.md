@@ -1,6 +1,7 @@
 Software | :computer:
 ------------ | -------------
 ### Adobe Creative Cloud
+  - Resources: https://edex.adobe.com/resource/d-ad7323/
   - Download: http://www.adobe.com/creativecloud/buy/students.html
   #### Includes:
   - Illustrator
