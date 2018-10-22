@@ -1,4 +1,5 @@
-# Table of Contents
+# Software Recources & References
+## Table of Contents
 [3D Modeling](#3D) <br />
 [Creative Coding](#CC)<br/>
 
@@ -13,7 +14,7 @@
 
 ### Text Editors
 
-
+<a name ="3D" />
 ### 3D Modeling 
 
 ### Audio Coding
@@ -34,7 +35,7 @@
 - Meshmixer
 - SketchUp
 
-# 3D
+
 ### 3D Printing
 - Cura - https://ultimaker.com/en/products/cura-software
 - MakerBot
