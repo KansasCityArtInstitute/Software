@@ -14,20 +14,17 @@
 
 ### Text Editors
 
-<a name ="3D" />
 
-### Blender <br />
-  -[Website](blender.org)
-  <ul>
-  <li><a href="https://www.blender.org/support/tutorials/">Tutorials</a></li>
-  <li><a href="https://docs.blender.org/manual/en/dev/index.html">References</a></li>
-  </ul>
-- Rhino3D
-  <ul>
-  <li><a href="https://www.rhino3d.com">Website</a></li>
-  <li><a href="https://www.rhino3d.com/tutorials">Tutorials</a></li>
-  </ul>
-- Fusion260
+### Blender <br>
+-[Website](blender.org)
+-[References](https://docs.blender.org/manual/en/dev/index.html)
+-[Tutorials](https://www.blender.org/support/tutorials/)
+
+### Rhino3D <br>
+-[Website](https://www.rhino3d.com)
+-[Tutorials](https://www.rhino3d.com/tutorials)
+
+### Fusion260
   <ul>
   <li><a href="https://www.blender.org">Website</a></li>
   <li><a href="https://www.blender.org/support/tutorials/">Tutorials</a></li>
