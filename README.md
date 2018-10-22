@@ -28,8 +28,8 @@
 ### 3D Modeling 
 - Rhino3D
   <ul>
-  <li><a target="_blank" href="https://www.rhino3d.com">Website</a></li>
-  <li><a target="_blank" href="https://www.rhino3d.com">Reference</a></li>
+  <li><a href="https://www.rhino3d.com">Website</a></li>
+  <li><a href="https://www.rhino3d.com">Reference</a></li>
   </ul>
 - Fusion 360 - https://www.autodesk.com/products/fusion-360/overview
 - Blender
