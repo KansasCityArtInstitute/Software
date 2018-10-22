@@ -28,7 +28,7 @@
 ### 3D Modeling 
 - Rhino3D
   <ul>
-  <li>[Website](www.rhino3d.com){:target="_blank"}</li>
+  <li><a href="https://www.rhino3d.com" target="_blank">Website</a></li>
   <li><a href="https://www.rhino3d.com" target="_blank">Reference</a></li>
   </ul>
 - Fusion 360 - https://www.autodesk.com/products/fusion-360/overview
