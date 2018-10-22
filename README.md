@@ -4,9 +4,11 @@
 [Creative Coding](#CC)<br/>
 [Text Editors](#TE)<br/>
 [3D Modeling](#3D) <br/>
-[Generative Audio](#Audio)<br/>
+[Generative Audio](#AU)<br/>
+[Projection](#PM)<br/>
 ***
-## Game Engine <a name="GE"></a>
+<a name="GE"></a>
+## Game Engine 
 ### Unity
 -[Website](https://unity3d.com)
 -[Reference](https://docs.unity3d.com/ScriptReference/index.html)
@@ -21,6 +23,7 @@
 ### Stencyl
 -[Website](http://stencyl.com)
 ***
+<a name="CC"></a>
 ## Creative Coding Software <a href="CC"></a>
 ### Processing
 -[Website](https://processing.org)
@@ -36,6 +39,7 @@
 ### Twine
 -[Website](http://twinery.org)
 ***
+<a name="TE"></a>
 ## Text Editors <a name="TE"></a>
 ### Atom
 -[Website](https://atom.io)
@@ -48,6 +52,7 @@
 ### Sublime Text
 -[Website](https://www.sublimetext.com)
 ***
+<a name="3D"></a>
 ## 3D Modeling <a name = "3D"> </a>
 ### Blender <br>
 -[Website](blender.org)
@@ -64,6 +69,7 @@
 -[Reference](https://help.autodesk.com/view/MSHMXR/2019/ENU/)
 -[Tutorials](https://www.youtube.com/user/meshmixer/videos)
 ***  
+<a name="AU"></a>
 ## Coded Audio
 ### Sonic Pi
 -[Website](https://sonic-pi.net)
@@ -78,6 +84,7 @@
 ### Super Collider
 -[Website](https://supercollider.github.io)
 ***
+<a name="PM"></a>
 ## Projection 
 ### Resolume Arena 6
 -[Website](https://resolume.com)
@@ -89,7 +96,7 @@
 -[Website](https://madmapper.com/madmapper/)
 -[Tutorials](https://madmapper.com/tutorials/)
 ***
-
+# Other Software (In progress)
 - Cinema 4D
 - Meshlab
 - Meshmixer
