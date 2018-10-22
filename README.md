@@ -1,4 +1,4 @@
-### Table of Contents
+# Table of Contents
 [3D Modeling](#3D) <br />
 [Creative Coding](#CC)<br/>
 
