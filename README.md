@@ -1,6 +1,6 @@
 ### Table of Contents
-[3D Modeling](#3D)
-[Creative Coding](#CC)
+[3D Modeling](#3D) <br />
+[Creative Coding](#CC)<br/>
 
 ### Game Engine
 - Stencyl
@@ -12,7 +12,7 @@
 - Max - https://cycling74.com/
 
 ### Text Editors
-#3D
+
 
 ### 3D Modeling 
 
@@ -34,6 +34,8 @@
 - Meshmixer
 - SketchUp
 
+
+#3D
 ### 3D Printing
 - Cura - https://ultimaker.com/en/products/cura-software
 - MakerBot
