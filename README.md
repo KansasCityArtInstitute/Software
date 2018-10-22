@@ -1,36 +1,49 @@
 # Software Recources & References
 ## Table of Contents
-[3D Modeling](#3D) <br />
+[Game Engines](#GE)<br/>
 [Creative Coding](#CC)<br/>
+[Text Editors](#TE)<br/>
+[3D Modeling](#3D) <br/>
+[Generative Audio](#Audio)<br/>
+***
+## Game Engine <a name="GE"></a>
+### Unity
+### Unreal
+### Godot
+### Stencyl
+***
+## Creative Coding Software <a href="CC"></a>
+### Processing
+-[Website](https://processing.org)
+-[Reference](https://processing.org/reference/)
+-[Tutorials](https://processing.org/tutorials/)
+### p5
+-[Website](https://p5js.org)
+-[Reference](https://p5js.org/reference/)
+-[Tutorials](https://p5js.org/learn/)
+### Max
+-[Website](https://cycling74.com/products/max/)
+-[Tutorials](https://cycling74.com/tutorials/page/1)
+***
+## Text Editors <a name="TE"></a>
 
-### Game Engine
-- [Stencyl]()
-- [Unity]()
-
-### Creative Coding Software
-- Processing - http://www.processing.org
-- Python - https://www.python.org/
-- Max - https://cycling74.com/
-
-### Text Editors
-
-
+***
+## 3D Modeling <a name = "3D"> </a>
 ### Blender <br>
 -[Website](blender.org)
 -[References](https://docs.blender.org/manual/en/dev/index.html)
 -[Tutorials](https://www.blender.org/support/tutorials/)
-
 ### Rhino3D <br>
 -[Website](https://www.rhino3d.com)
 -[Tutorials](https://www.rhino3d.com/tutorials)
-
-### Fusion260
-  <ul>
-  <li><a href="https://www.blender.org">Website</a></li>
-  <li><a href="https://www.blender.org/support/tutorials/">Tutorials</a></li>
-  <li><a href="https://docs.blender.org/manual/en/dev/index.html">References</a></li>
-  </ul>
-  
+### Fusion260 (free for students)
+-[Website](https://www.autodesk.com/products/fusion-360/students-teachers-educators)
+-[Tutorials](https://www.autodesk.com/products/fusion-360/get-started)
+### Mesh Mixer
+-[Website](http://www.meshmixer.com)
+-[Reference](https://help.autodesk.com/view/MSHMXR/2019/ENU/)
+-[Tutorials](https://www.youtube.com/user/meshmixer/videos)
+***  
   
 ### Audio Coding
 
