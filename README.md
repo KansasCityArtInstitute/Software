@@ -27,8 +27,10 @@
 
 ### 3D Modeling 
 - Rhino3D
-  -<a href="https://www.rhino3d.com">Download</a>
-  -Reference
+  <ul>
+  <li><a href="https://www.rhino3d.com">Website</a></li>
+  <li><a href="https://www.rhino3d.com">Reference</a></li>
+  </ul>
 - Fusion 360 - https://www.autodesk.com/products/fusion-360/overview
 - Blender
 - Unity
