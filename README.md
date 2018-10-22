@@ -4,7 +4,7 @@
 [Creative Coding](#CC)<br/>
 
 ### Game Engine
-- Stencyl
+- [Stencyl]()
 - [Unity]()
 
 ### Creative Coding Software
@@ -15,8 +15,26 @@
 ### Text Editors
 
 <a name ="3D" />
-### 3D Modeling 
 
+### Blender <br />
+  -[Website](blender.org)
+  <ul>
+  <li><a href="https://www.blender.org/support/tutorials/">Tutorials</a></li>
+  <li><a href="https://docs.blender.org/manual/en/dev/index.html">References</a></li>
+  </ul>
+- Rhino3D
+  <ul>
+  <li><a href="https://www.rhino3d.com">Website</a></li>
+  <li><a href="https://www.rhino3d.com/tutorials">Tutorials</a></li>
+  </ul>
+- Fusion260
+  <ul>
+  <li><a href="https://www.blender.org">Website</a></li>
+  <li><a href="https://www.blender.org/support/tutorials/">Tutorials</a></li>
+  <li><a href="https://docs.blender.org/manual/en/dev/index.html">References</a></li>
+  </ul>
+  
+  
 ### Audio Coding
 
 ### Projection 
