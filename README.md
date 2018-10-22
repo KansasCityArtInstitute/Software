@@ -34,8 +34,7 @@
 - Meshmixer
 - SketchUp
 
-
-(#3D)
+# 3D
 ### 3D Printing
 - Cura - https://ultimaker.com/en/products/cura-software
 - MakerBot
