@@ -1,36 +1,31 @@
 ### Table of Contents
 [3D Modeling](#3D)
+[Creative Coding](#CC)
 
-
-### Adobe Creative Cloud
-  - Resources: https://edex.adobe.com/resource/d-ad7323/
-  - Download: http://www.adobe.com/creativecloud/buy/students.html
-  #### Includes:
-  - Illustrator
-  - Photoshop
-  - Premiere
-  - After Effects
-  - Animate
+### Game Engine
+- Stencyl
+- [Unity]()
 
 ### Creative Coding Software
 - Processing - http://www.processing.org
 - Python - https://www.python.org/
-- Arduino - https://www.arduino.cc/en/Main/Software 
 - Max - https://cycling74.com/
 
-### Advanced Creative Coding
-- Cinder - https://libcinder.org/
-- openFrameworks - http://openframeworks.cc/
-- Pure Data - https://puredata.info/
-<a name="3D"></a>
------
+### Text Editors
+#3D
+
+### 3D Modeling 
+
+### Audio Coding
+
+### Projection 
+
+***
 
 ### 3D Modeling 
 - Rhino3D
-  <ul>
-  <li><a href="https://www.rhino3d.com">Website</a></li>
-  <li><a href="https://www.rhino3d.com">Reference</a></li>
-  </ul>
+  [-Website]()
+  [-Reference]()
 - Fusion 360 - https://www.autodesk.com/products/fusion-360/overview
 - Blender
 - Unity
@@ -109,8 +104,12 @@
 - Scratch
 - Applescript - https://en.wikipedia.org/wiki/AppleScript
 
-### Game Dev
-- Stencyl
+***
+
+### Advanced Creative Coding
+- Cinder - https://libcinder.org/
+- openFrameworks - http://openframeworks.cc/
+- Pure Data - https://puredata.info/
 
 ### Live Video
 - Syphon Recorder
@@ -122,6 +121,16 @@
 - CefWithSyphon
 - Camtwist
 - Project Milk Syphon
+
+### Adobe Creative Cloud
+  - Resources: https://edex.adobe.com/resource/d-ad7323/
+  - Download: http://www.adobe.com/creativecloud/buy/students.html
+  #### Includes:
+  - Illustrator
+  - Photoshop
+  - Premiere
+  - After Effects
+  - Animate
 
 ### Other
 - TeamViewer
