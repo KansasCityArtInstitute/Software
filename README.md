@@ -8,9 +8,18 @@
 ***
 ## Game Engine <a name="GE"></a>
 ### Unity
+-[Website](https://unity3d.com)
+-[Reference](https://docs.unity3d.com/ScriptReference/index.html)
+-[Tutorials](https://unity3d.com/learn/tutorials)
 ### Unreal
+-[Website](https://www.unrealengine.com/en-US/what-is-unreal-engine-4)
+-[Reference](https://docs.unrealengine.com/en-us/)
+-[Tutorials](https://academy.unrealengine.com)
 ### Godot
+-[Website](https://godotengine.org)
+-[Reference](http://docs.godotengine.org/en/3.0/)
 ### Stencyl
+-[Website](http://stencyl.com)
 ***
 ## Creative Coding Software <a href="CC"></a>
 ### Processing
@@ -24,9 +33,20 @@
 ### Max
 -[Website](https://cycling74.com/products/max/)
 -[Tutorials](https://cycling74.com/tutorials/page/1)
+### Twine
+-[Website](http://twinery.org)
 ***
 ## Text Editors <a name="TE"></a>
-
+### Atom
+-[Website](https://atom.io)
+### Visual Studio IDE (C#)
+-[Website](https://visualstudio.microsoft.com/vs/)
+### Visual Studio Code (multi language)
+-[Website](https://code.visualstudio.com/?wt.mc_id=DX_841432)
+### Brackets
+-[Website](http://brackets.io)
+### Sublime Text
+-[Website](https://www.sublimetext.com)
 ***
 ## 3D Modeling <a name = "3D"> </a>
 ### Blender <br>
@@ -44,20 +64,32 @@
 -[Reference](https://help.autodesk.com/view/MSHMXR/2019/ENU/)
 -[Tutorials](https://www.youtube.com/user/meshmixer/videos)
 ***  
-  
-### Audio Coding
-
-### Projection 
-
+## Coded Audio
+### Sonic Pi
+-[Website](https://sonic-pi.net)
+-[Tutorials](https://sonic-pi.net/tutorial.html)
+### chucK
+-[Website](http://chuck.cs.princeton.edu)
+-[Reference](http://chuck.cs.princeton.edu/doc/learn/)
+### Tidal Cycles
+-[Website](https://tidalcycles.org)
+-[Reference](https://tidalcycles.org/functions.html)
+-[Tutorials](https://tidalcycles.org/patterns.html)
+### Super Collider
+-[Website](https://supercollider.github.io)
+***
+## Projection 
+### Resolume Arena 6
+-[Website](https://resolume.com)
+-[Tutorials](https://resolume.com/training/1)
+### Touch Designer
+-[Website](https://www.derivative.ca)
+-[Tutorials](https://derivative.ca/wiki088/index.php?title=Category:Tutorials)
+### MadMapper
+-[Website](https://madmapper.com/madmapper/)
+-[Tutorials](https://madmapper.com/tutorials/)
 ***
 
-
-- Rhino3D
-  [-Website]()
-  [-Reference]()
-- Fusion 360 - https://www.autodesk.com/products/fusion-360/overview
-- Blender
-- Unity
 - Cinema 4D
 - Meshlab
 - Meshmixer
@@ -162,7 +194,7 @@
   - After Effects
   - Animate
 
-### Other
+# Other
 - TeamViewer
 - Handbrake
 - Automator 
