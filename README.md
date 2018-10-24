@@ -1,14 +1,14 @@
 # Software Recources & References
 (Every software without a price label is Free)
 ## Table of Contents
-[Game Engines](#GE)<br/>
+[Game Engines](#Game Engine)<br/>
 [Creative Coding](#CC)<br/>
 [Audio Editing](#Audio)<br/>
 [Text Editors](#TE)<br/>
 [3D Modeling](#3D) <br/>
 [Generative Audio](#AU)<br/>
-[Projection](#PM)<br/>
-[Adobe Alternative](#Alt)<br/>
+[Projection](#Projection)<br/>
+[Adobe Alternative](#Adobe Alternatives)<br/>
 ***
 <a name="GE"></a>
 ## Game Engine 
@@ -140,7 +140,7 @@
 - VDMX - http://vidvox.net/
 - Quartz Composer - https://en.wikipedia.org/wiki/Quartz_Composer
 
-### Audio
+### Audio Stuff
 - Audio Hijack - https://rogueamoeba.com/audiohijack/
 - SoundFlower - https://rogueamoeba.com/freebies/soundflower/
 - Audacity
