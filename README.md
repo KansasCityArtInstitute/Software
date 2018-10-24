@@ -4,7 +4,7 @@ Here you will find software for all your needs and includes many include user ma
 Every software without a price label is free
 Happy Browsing!
 ## Table of Contents
-[Game Engines](#Game)<br/>
+[Game Engines](#game-engines)<br/>
 [Creative Coding](#Creative)<br/>
 [Audio Editing](#Audio)<br/>
 [Text Editors](#Text)<br/>
