@@ -1,23 +1,26 @@
 # Software Recources & References
+(Every software without a price label is Free)
 ## Table of Contents
 [Game Engines](#GE)<br/>
 [Creative Coding](#CC)<br/>
+[Audio Editing](#Audio)<br/>
 [Text Editors](#TE)<br/>
 [3D Modeling](#3D) <br/>
 [Generative Audio](#AU)<br/>
 [Projection](#PM)<br/>
+[Adobe Alternative](#Alt)<br/>
 ***
 <a name="GE"></a>
 ## Game Engine 
-### Unity
+### Unity 
 -[Website](https://unity3d.com)
 -[Reference](https://docs.unity3d.com/ScriptReference/index.html)
 -[Tutorials](https://unity3d.com/learn/tutorials)
-### Unreal
+### Unreal 
 -[Website](https://www.unrealengine.com/en-US/what-is-unreal-engine-4)
 -[Reference](https://docs.unrealengine.com/en-us/)
 -[Tutorials](https://academy.unrealengine.com)
-### Godot
+### Godot 
 -[Website](https://godotengine.org)
 -[Reference](http://docs.godotengine.org/en/3.0/)
 ### Stencyl
@@ -33,7 +36,7 @@
 -[Website](https://p5js.org)
 -[Reference](https://p5js.org/reference/)
 -[Tutorials](https://p5js.org/learn/)
-### Max
+### Max -$10/month
 -[Website](https://cycling74.com/products/max/)
 -[Tutorials](https://cycling74.com/tutorials/page/1)
 ### Twine
@@ -54,11 +57,12 @@
 ***
 <a name="3D"></a>
 ## 3D Modeling <a name = "3D"> </a>
-### Blender <br>
+### Blender 
 -[Website](blender.org)
 -[References](https://docs.blender.org/manual/en/dev/index.html)
 -[Tutorials](https://www.blender.org/support/tutorials/)
-### Rhino3D <br>
+-[Bonus Tutorials](https://www.blenderguru.com/tutorials)
+### Rhino3D -$200
 -[Website](https://www.rhino3d.com)
 -[Tutorials](https://www.rhino3d.com/tutorials)
 ### Fusion260 (free for students)
@@ -69,6 +73,18 @@
 -[Reference](https://help.autodesk.com/view/MSHMXR/2019/ENU/)
 -[Tutorials](https://www.youtube.com/user/meshmixer/videos)
 ***  
+<a name="PM"></a>
+## Projection 
+### Resolume Arena 6 ~$909
+-[Website](https://resolume.com)
+-[Tutorials](https://resolume.com/training/1)
+### Touch Designer 
+-[Website](https://www.derivative.ca)
+-[Tutorials](https://derivative.ca/wiki088/index.php?title=Category:Tutorials)
+### MadMapper -$40/month
+-[Website](https://madmapper.com/madmapper/)
+-[Tutorials](https://madmapper.com/tutorials/)
+***
 <a name="AU"></a>
 ## Coded Audio
 ### Sonic Pi
@@ -84,22 +100,31 @@
 ### Super Collider
 -[Website](https://supercollider.github.io)
 ***
-<a name="PM"></a>
-## Projection 
-### Resolume Arena 6
--[Website](https://resolume.com)
--[Tutorials](https://resolume.com/training/1)
-### Touch Designer
--[Website](https://www.derivative.ca)
--[Tutorials](https://derivative.ca/wiki088/index.php?title=Category:Tutorials)
-### MadMapper
--[Website](https://madmapper.com/madmapper/)
--[Tutorials](https://madmapper.com/tutorials/)
+<a name="Audio"></a>
+## Audio Editing
+### Ableton Live - $99 min
+-[Website](https://www.ableton.com/en/)
+-[Tutorials](https://www.ableton.com/en/live/learn-live/)
+### Reaper -$60
+-[Website](https://www.reaper.fm)
+-[Tutorials](https://www.reaper.fm/videos.php)
+***
+<a name="Alt"></a>
+## Adobe Alternatives
+### Affinity Designer -$50 (Replaces Illustrator)
+-[Desktop](https://affinity.serif.com/en-us/designer/desktop/)
+-[Ipad](https://affinity.serif.com/en-us/designer/ipad/)
+-[Desktop Tutorials](https://vimeo.com/album/3062024)
+-[Ipad Tutorials](https://affinity.serif.com/en-us/tutorials/designer/ipad/)
+### Affinity Photo -$50 (Replaces Photoshop)
+-[Desktop](https://affinity.serif.com/en-us/photo/desktop/)
+-[Ipad](https://affinity.serif.com/en-us/photo/ipad/)
+-[Desktop Tutorials](https://vimeo.com/album/4033881)
+-[Ipad Tutorials](https://affinity.serif.com/en-us/tutorials/photo/ipad/)
 ***
 # Other Software (In progress)
 - Cinema 4D
 - Meshlab
-- Meshmixer
 - SketchUp
 
 
@@ -111,14 +136,11 @@
 
 ### A/V
 - CoGe VJ
-- Resolume - http://resolume.com
 - Audio Visual Academy List - http://audiovisualacademy.com/avin/en/modules/software/
 - VDMX - http://vidvox.net/
-- TouchDesigner - https://www.derivative.ca/
 - Quartz Composer - https://en.wikipedia.org/wiki/Quartz_Composer
 
 ### Audio
-- Ableton - https://www.ableton.com/en/
 - Audio Hijack - https://rogueamoeba.com/audiohijack/
 - SoundFlower - https://rogueamoeba.com/freebies/soundflower/
 - Audacity
@@ -127,7 +149,6 @@
 - Reason
 - Sound Forge
 - Garage Band
-- ChucK - http://chuck.cs.princeton.edu/
 - Traktor
 - More music software... https://en.wikipedia.org/wiki/List_of_music_software
 
@@ -140,7 +161,6 @@
 - QuickTime Player
 
 ### Web
-- p5.js - http://p5js.org
 - Three.js - https://threejs.org/
 - Node.js - https://nodejs.org/en/
 
@@ -149,7 +169,6 @@
 - Eagle
 
 ### Projection Mapping
-- MadMapper - http://madmapper.com/
 - Modul8
 
 ### MIDI/OSC 
@@ -163,9 +182,7 @@
 - TouchOSC
 
 ### Coding
-- Atom - https://atom.io/
 - GitHub - https://desktop.github.com/
-- Brackets
 - NodeBox
 - Xcode - https://developer.apple.com/xcode/
 - PyCharm
