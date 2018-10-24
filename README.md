@@ -1,16 +1,19 @@
 # Software Recources & References
-(Every software without a price label is Free)
+Welcome to the IA Software Page 
+Here you will find software for all your needs and includes many include user manuals and tutorials
+Every software without a price label is free
+Happy Browsing!
 ## Table of Contents
-[Game Engines](#Game-Engines)<br/>
-[Creative Coding](#Creative-Coding)<br/>
-[Audio Editing](#Audio-Editing)<br/>
-[Text Editors](#Text-Editors)<br/>
-[3D Modeling](#3D-Modeling) <br/>
-[Generative Audio](#Generative-Audio)<br/>
+[Game Engines](#Game)<br/>
+[Creative Coding](#Creative)<br/>
+[Audio Editing](#Audio)<br/>
+[Text Editors](#Text)<br/>
+[3D Modeling](#3D) <br/>
+[Generative Audio](#Generative)<br/>
 [Projection](#Projection)<br/>
-[Adobe Alternative](#Adobe-Alternatives)<br/>
+[Adobe Alternative](#Adobe)<br/>
 ***
-## Game-Engines
+## Game Engines
 ### Unity 
 -[Website](https://unity3d.com)
 -[Reference](https://docs.unity3d.com/ScriptReference/index.html)
@@ -25,7 +28,7 @@
 ### Stencyl
 -[Website](http://stencyl.com)
 ***
-## Creative-Coding
+## Creative Coding
 ### Processing
 -[Website](https://processing.org)
 -[Reference](https://processing.org/reference/)
