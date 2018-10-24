@@ -1,14 +1,14 @@
 # Software Recources & References
 (Every software without a price label is Free)
 ## Table of Contents
-[Game Engines](#Game Engine)<br/>
+[Game Engines](#GameEngine)<br/>
 [Creative Coding](#CC)<br/>
 [Audio Editing](#Audio)<br/>
 [Text Editors](#TE)<br/>
 [3D Modeling](#3D) <br/>
 [Generative Audio](#AU)<br/>
 [Projection](#Projection)<br/>
-[Adobe Alternative](#Adobe Alternatives)<br/>
+[Adobe Alternative](#AdobeAlternatives)<br/>
 ***
 <a name="GE"></a>
 ## Game Engine 
