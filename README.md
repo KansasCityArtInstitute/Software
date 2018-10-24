@@ -5,13 +5,13 @@ Every software without a price label is free
 Happy Browsing!
 ## Table of Contents
 [Game Engines](#game-engines)<br/>
-[Creative Coding](#Creative)<br/>
-[Audio Editing](#Audio)<br/>
-[Text Editors](#Text)<br/>
-[3D Modeling](#3D) <br/>
-[Generative Audio](#Generative)<br/>
-[Projection](#Projection)<br/>
-[Adobe Alternative](#Adobe)<br/>
+[Creative Coding](#creative-coding)<br/>
+[Audio Editing](#audio-editing)<br/>
+[Text Editors](#text-editors)<br/>
+[3D Modeling](#3d-modeling) <br/>
+[Generative Audio](#generative-audio)<br/>
+[Projection](#projection)<br/>
+[Adobe Alternative](#adobe-alternative)<br/>
 ***
 ## Game Engines
 ### Unity 
