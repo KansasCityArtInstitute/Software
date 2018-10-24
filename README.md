@@ -1,17 +1,16 @@
 # Software Recources & References
 (Every software without a price label is Free)
 ## Table of Contents
-[Game Engines](#Game-Engines)<br/>
+[Game Engines](#Game_Engines)<br/>
 [Creative Coding](#Creative-Coding)<br/>
 [Audio Editing](#Audio)<br/>
-[Text Editors](#TE)<br/>
-[3D Modeling](#3D) <br/>
-[Generative Audio](#AU)<br/>
+[Text Editors](#Text-Editors)<br/>
+[3D Modeling](#3D-Modeling) <br/>
+[Generative Audio](#Generative-Audio)<br/>
 [Projection](#Projection)<br/>
-[Adobe Alternative](#AdobeAlternatives)<br/>
+[Adobe Alternative](#Adobe-Alternatives)<br/>
 ***
-<a name="GE"></a>
-## Game-Engines
+## Game Engines
 ### Unity 
 -[Website](https://unity3d.com)
 -[Reference](https://docs.unity3d.com/ScriptReference/index.html)
@@ -26,7 +25,6 @@
 ### Stencyl
 -[Website](http://stencyl.com)
 ***
-<a name="CC"></a>
 ## Creative-Coding
 ### Processing
 -[Website](https://processing.org)
@@ -42,8 +40,7 @@
 ### Twine
 -[Website](http://twinery.org)
 ***
-<a name="TE"></a>
-## Text Editors <a name="TE"></a>
+## Text-Editors 
 ### Atom
 -[Website](https://atom.io)
 ### Visual Studio IDE (C#)
@@ -55,8 +52,7 @@
 ### Sublime Text
 -[Website](https://www.sublimetext.com)
 ***
-<a name="3D"></a>
-## 3D Modeling <a name = "3D"> </a>
+## 3D-Modeling
 ### Blender 
 -[Website](blender.org)
 -[References](https://docs.blender.org/manual/en/dev/index.html)
@@ -86,7 +82,7 @@
 -[Tutorials](https://madmapper.com/tutorials/)
 ***
 <a name="AU"></a>
-## Coded Audio
+## Generative-Audio
 ### Sonic Pi
 -[Website](https://sonic-pi.net)
 -[Tutorials](https://sonic-pi.net/tutorial.html)
@@ -110,7 +106,7 @@
 -[Tutorials](https://www.reaper.fm/videos.php)
 ***
 <a name="Alt"></a>
-## Adobe Alternatives
+## Adobe-Alternatives
 ### Affinity Designer -$50 (Replaces Illustrator)
 -[Desktop](https://affinity.serif.com/en-us/designer/desktop/)
 -[Ipad](https://affinity.serif.com/en-us/designer/ipad/)
