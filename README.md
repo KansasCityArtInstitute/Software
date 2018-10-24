@@ -1,8 +1,8 @@
 # Software Recources & References
 (Every software without a price label is Free)
 ## Table of Contents
-[Game Engines](#GameEngine)<br/>
-[Creative Coding](#CC)<br/>
+[Game Engines](#Game-Engines)<br/>
+[Creative Coding](#Creative-Coding)<br/>
 [Audio Editing](#Audio)<br/>
 [Text Editors](#TE)<br/>
 [3D Modeling](#3D) <br/>
@@ -11,7 +11,7 @@
 [Adobe Alternative](#AdobeAlternatives)<br/>
 ***
 <a name="GE"></a>
-## Game Engine 
+## Game-Engines
 ### Unity 
 -[Website](https://unity3d.com)
 -[Reference](https://docs.unity3d.com/ScriptReference/index.html)
@@ -27,7 +27,7 @@
 -[Website](http://stencyl.com)
 ***
 <a name="CC"></a>
-## Creative Coding Software <a href="CC"></a>
+## Creative-Coding
 ### Processing
 -[Website](https://processing.org)
 -[Reference](https://processing.org/reference/)
