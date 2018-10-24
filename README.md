@@ -1,16 +1,16 @@
 # Software Recources & References
 (Every software without a price label is Free)
 ## Table of Contents
-[Game Engines](#Game_Engines)<br/>
+[Game Engines](#Game-Engines)<br/>
 [Creative Coding](#Creative-Coding)<br/>
-[Audio Editing](#Audio)<br/>
+[Audio Editing](#Audio-Editing)<br/>
 [Text Editors](#Text-Editors)<br/>
 [3D Modeling](#3D-Modeling) <br/>
 [Generative Audio](#Generative-Audio)<br/>
 [Projection](#Projection)<br/>
 [Adobe Alternative](#Adobe-Alternatives)<br/>
 ***
-## Game Engines
+## Game-Engines
 ### Unity 
 -[Website](https://unity3d.com)
 -[Reference](https://docs.unity3d.com/ScriptReference/index.html)
@@ -69,7 +69,6 @@
 -[Reference](https://help.autodesk.com/view/MSHMXR/2019/ENU/)
 -[Tutorials](https://www.youtube.com/user/meshmixer/videos)
 ***  
-<a name="PM"></a>
 ## Projection 
 ### Resolume Arena 6 ~$909
 -[Website](https://resolume.com)
@@ -81,7 +80,6 @@
 -[Website](https://madmapper.com/madmapper/)
 -[Tutorials](https://madmapper.com/tutorials/)
 ***
-<a name="AU"></a>
 ## Generative-Audio
 ### Sonic Pi
 -[Website](https://sonic-pi.net)
@@ -96,8 +94,7 @@
 ### Super Collider
 -[Website](https://supercollider.github.io)
 ***
-<a name="Audio"></a>
-## Audio Editing
+## Audio-Editing
 ### Ableton Live - $99 min
 -[Website](https://www.ableton.com/en/)
 -[Tutorials](https://www.ableton.com/en/live/learn-live/)
@@ -105,7 +102,6 @@
 -[Website](https://www.reaper.fm)
 -[Tutorials](https://www.reaper.fm/videos.php)
 ***
-<a name="Alt"></a>
 ## Adobe-Alternatives
 ### Affinity Designer -$50 (Replaces Illustrator)
 -[Desktop](https://affinity.serif.com/en-us/designer/desktop/)
