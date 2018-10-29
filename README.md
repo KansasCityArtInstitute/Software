@@ -108,6 +108,9 @@ Happy Browsing!
 ### Reaper -$60
 -[Website](https://www.reaper.fm)
 -[Tutorials](https://www.reaper.fm/videos.php)
+### Logic Pro X -$200
+-[Website](https://www.apple.com/logic-pro/)
+-[Tutorials](https://www.youtube.com/watch?v=lMlbRv8dnuE)
 ***
 ## Adobe-Alternatives
 ### Affinity Designer -$50 (Replaces Illustrator)
