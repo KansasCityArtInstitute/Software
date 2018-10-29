@@ -66,12 +66,17 @@ Happy Browsing!
 -[Tutorials](https://www.blender.org/support/tutorials/)
 -[Bonus Tutorials](https://www.blenderguru.com/tutorials)
 ### Rhino3D -$200
+Nurbs 3D modeling
 -[Website](https://www.rhino3d.com)
 -[Tutorials](https://www.rhino3d.com/tutorials)
-### Fusion260 (free for students)
+### Grasshopper (free plugin for Rhino)
+Node-based algorhythmic modeling for Rhino
+-[Website](https://www.grasshopper3d.com)
+-[Tutorials](https://vimeopro.com/rhino/grasshopper-getting-started-by-david-rutten)
+### Fusion360 (free for students)
 -[Website](https://www.autodesk.com/products/fusion-360/students-teachers-educators)
 -[Tutorials](https://www.autodesk.com/products/fusion-360/get-started)
-### Mesh Mixer
+### Meshmixer
 -[Website](http://www.meshmixer.com)
 -[Reference](https://help.autodesk.com/view/MSHMXR/2019/ENU/)
 -[Tutorials](https://www.youtube.com/user/meshmixer/videos)
