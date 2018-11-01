@@ -36,8 +36,9 @@ Happy Browsing!
 -[Reference](http://docs.godotengine.org/en/3.0/)
 ### Stencyl
 -[Website](http://stencyl.com)
-### Gamemaker Studio 2 -$40 to $400
--[Website](https://www.yoyogames.com/gamemaker)
+### Gamemaker Studio 
+ -$40 to $400
+ -[Website](https://www.yoyogames.com/gamemaker)
 -[Reference](http://docs2.yoyogames.com/)
 -[Tutorials](https://www.yoyogames.com/learn)
 ***
@@ -50,7 +51,8 @@ Happy Browsing!
 -[Website](https://p5js.org)
 -[Reference](https://p5js.org/reference/)
 -[Tutorials](https://p5js.org/learn/)
-### Max -$10/month
+### Max 
+-$10/month
 -[Website](https://cycling74.com/products/max/)
 -[Tutorials](https://cycling74.com/tutorials/page/1)
 ### Twine
@@ -74,10 +76,11 @@ Happy Browsing!
 -[References](https://docs.blender.org/manual/en/dev/index.html)
 -[Tutorials](https://www.blender.org/support/tutorials/)
 -[Bonus Tutorials](https://www.blenderguru.com/tutorials)
-### Rhino3D -$200
+### Rhino
+-$200
 -[Website](https://www.rhino3d.com)
 -[Tutorials](https://www.rhino3d.com/tutorials)
-### Fusion260 (free for students)
+### Fusion360
 -[Website](https://www.autodesk.com/products/fusion-360/students-teachers-educators)
 -[Tutorials](https://www.autodesk.com/products/fusion-360/get-started)
 ### Mesh Mixer
@@ -86,13 +89,15 @@ Happy Browsing!
 -[Tutorials](https://www.youtube.com/user/meshmixer/videos)
 ***  
 ## Projection 
-### Resolume Arena 6 ~$909
+### Resolume
+- Arena
 -[Website](https://resolume.com)
 -[Tutorials](https://resolume.com/training/1)
 ### Touch Designer 
 -[Website](https://www.derivative.ca)
 -[Tutorials](https://derivative.ca/wiki088/index.php?title=Category:Tutorials)
-### MadMapper -$40/month
+### MadMapper 
+- $40/month
 -[Website](https://madmapper.com/madmapper/)
 -[Tutorials](https://madmapper.com/tutorials/)
 ***
@@ -111,26 +116,31 @@ Happy Browsing!
 -[Website](https://supercollider.github.io)
 ***
 ## Audio-Editing
-### Ableton Live - $99 min
--[Website](https://www.ableton.com/en/)
+### Ableton Live
+ - $99 min
+ -[Website](https://www.ableton.com/en/)
 -[Tutorials](https://www.ableton.com/en/live/learn-live/)
-### Reaper -$60
+### Reaper
+ -$60
 -[Website](https://www.reaper.fm)
 -[Tutorials](https://www.reaper.fm/videos.php)
 ***
 ## Adobe-Alternatives
-### Affinity Designer -$50 (Replaces Illustrator)
+### Affinity Designer 
+-$50 (Replaces Illustrator)
 -[Desktop](https://affinity.serif.com/en-us/designer/desktop/)
 -[Ipad](https://affinity.serif.com/en-us/designer/ipad/)
 -[Desktop Tutorials](https://vimeo.com/album/3062024)
 -[Ipad Tutorials](https://affinity.serif.com/en-us/tutorials/designer/ipad/)
-### Affinity Photo -$50 (Replaces Photoshop)
+### Affinity Photo 
+-$50 (Replaces Photoshop)
 -[Desktop](https://affinity.serif.com/en-us/photo/desktop/)
 -[Ipad](https://affinity.serif.com/en-us/photo/ipad/)
 -[Desktop Tutorials](https://vimeo.com/album/4033881)
 -[Ipad Tutorials](https://affinity.serif.com/en-us/tutorials/photo/ipad/)
 ***
-# Other Software (In progress)
+# Other Software
+ (In progress)
 - Cinema 4D
 - Meshlab
 - SketchUp
