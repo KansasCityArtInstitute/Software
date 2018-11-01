@@ -7,6 +7,7 @@ Happy Browsing!
 [Highlights](#highlights)<br/>
 [Game Engines](#game-engines)<br/>
 [Creative Coding](#creative-coding)<br/>
+[Hardware IDE](#hardware-ide)<br/>
 [Audio Editing](#audio-editing)<br/>
 [Text Editors](#text-editors)<br/>
 [3D Modeling](#3d-modeling) <br/>
@@ -15,32 +16,14 @@ Happy Browsing!
 [Adobe Alternative](#adobe-alternative)<br/>
 ***
 ## Highlights
--[Processing](#processing)
--[P5](#p5)
--[Max](#max)
--[Rhino](#rhino)
--[Unity](#unity)
--[Resolume](#resolume)
-***
-## Game Engines
-### Unity 
--[Website](https://unity3d.com)
--[Reference](https://docs.unity3d.com/ScriptReference/index.html)
--[Tutorials](https://unity3d.com/learn/tutorials)
-### Unreal 
--[Website](https://www.unrealengine.com/en-US/what-is-unreal-engine-4)
--[Reference](https://docs.unrealengine.com/en-us/)
--[Tutorials](https://academy.unrealengine.com)
-### Godot 
--[Website](https://godotengine.org)
--[Reference](http://docs.godotengine.org/en/3.0/)
-### Stencyl
--[Website](http://stencyl.com)
-### Gamemaker Studio 
- -$40 to $400
- -[Website](https://www.yoyogames.com/gamemaker)
--[Reference](http://docs2.yoyogames.com/)
--[Tutorials](https://www.yoyogames.com/learn)
+[Processing](#processing)<br/>
+[p5](#p5)<br/>
+[Arduino](#arduino)<br/>
+[Particle](#particle)<br/>
+[MAX](#max)<br/>
+[Rhino](#rhino)<br/>
+[Unity](#unity)<br/>
+[Resolume](#resolume)<br/>
 ***
 ## Creative Coding
 ### Processing
@@ -57,6 +40,12 @@ Happy Browsing!
 -[Tutorials](https://cycling74.com/tutorials/page/1)
 ### Twine
 -[Website](http://twinery.org)
+***
+## Hardware IDE
+### Arduino
+-[Website](http://www.arduino.cc)
+### Particle
+-[Website](http://www.particle.io)
 ***
 ## Text-Editors 
 ### Atom
@@ -88,6 +77,26 @@ Happy Browsing!
 -[Reference](https://help.autodesk.com/view/MSHMXR/2019/ENU/)
 -[Tutorials](https://www.youtube.com/user/meshmixer/videos)
 ***  
+## Game Engines
+### Unity 
+-[Website](https://unity3d.com)
+-[Reference](https://docs.unity3d.com/ScriptReference/index.html)
+-[Tutorials](https://unity3d.com/learn/tutorials)
+### Unreal 
+-[Website](https://www.unrealengine.com/en-US/what-is-unreal-engine-4)
+-[Reference](https://docs.unrealengine.com/en-us/)
+-[Tutorials](https://academy.unrealengine.com)
+### Godot 
+-[Website](https://godotengine.org)
+-[Reference](http://docs.godotengine.org/en/3.0/)
+### Stencyl
+-[Website](http://stencyl.com)
+### Gamemaker Studio 
+ -$40 to $400
+ -[Website](https://www.yoyogames.com/gamemaker)
+-[Reference](http://docs2.yoyogames.com/)
+-[Tutorials](https://www.yoyogames.com/learn)
+***
 ## Projection 
 ### Resolume
 - Arena
