@@ -50,6 +50,11 @@ Processing is a flexible software sketchbook and a language for learning how to 
 * [Reference](https://processing.org/reference/)
 * [Tutorials](https://processing.org/tutorials/)
 * Bonus Tutorials: [The Coding Train by Daniel Shiffman](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+* [Spacebrew](http://docs.spacebrew.cc/)
+* [Processing.js](http://processingjs.org/)
+* [OpenProcessing - Creative Coding for the Curious Mind](https://www.openprocessing.org/)
+* [The Hype Framework | Joshua Davis](https://www.hypeframework.com/)
+* [Processing | Processing on the Raspberry Pi & PiTFT | Adafruit Learning System](https://learn.adafruit.com/processing-on-the-raspberry-pi-and-pitft/processing)
 
 ### p5
 * *Javascript*, Open Source, Free
