@@ -3,7 +3,7 @@
 Here you will find software for all your needs and includes many include user manuals and tutorials.<br>
 Every software without a price label is free!<br>
 <br>
-*Happy Browsing!*
+*Happy Browsing! Don't forget to [checkout](https://docs.google.com/forms/d/e/1FAIpQLSeKw-BdUHAGEWXEVWURaea8MHVTIy4Whx5olIf88-iWBlXkCg/viewform#responses)!*
 <br>
 
 ## Table of Contents
@@ -29,7 +29,6 @@ Every software without a price label is free!<br>
 [Rhino](#rhino)<br>
 [Unity](#unity)<br>
 [Resolume](#resolume)<br>
-[Example List](http://medialappi.net/lab/equipment/)
 ***
 <br/>
 <br/>
@@ -321,3 +320,4 @@ Processing is a flexible software sketchbook and a language for learning how to 
 - VideoCast
 - Wireshark
 
+[Example List](http://medialappi.net/lab/equipment/)
