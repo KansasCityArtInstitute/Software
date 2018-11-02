@@ -1,8 +1,10 @@
 # Software Recources & References
-Welcome to the IA Software Page 
-Here you will find software for all your needs and includes many include user manuals and tutorials
-Every software without a price label is free
-Happy Browsing!
+*Welcome to the IA Software Page*
+Here you will find software for all your needs and includes many include user manuals and tutorials.
+Every software without a price label is free!
+
+*Happy Browsing!*
+
 ## Table of Contents
 [Highlights](#highlights)<br/>
 [Game Engines](#game-engines)<br/>
@@ -15,7 +17,9 @@ Happy Browsing!
 [Projection](#projection)<br/>
 [Adobe Alternative](#adobe-alternative)<br/>
 ***
-## Highlights
+
+
+# Highlights
 [Processing](#processing)<br/>
 [p5](#p5)<br/>
 [Arduino](#arduino)<br/>
@@ -24,7 +28,9 @@ Happy Browsing!
 [Rhino](#rhino)<br/>
 [Unity](#unity)<br/>
 [Resolume](#resolume)<br/>
+[Example List](http://medialappi.net/lab/equipment/)
 ***
+
 ## Creative Coding
 ### Processing
 -[Website](https://processing.org)
@@ -153,7 +159,6 @@ Happy Browsing!
 - Cinema 4D
 - Meshlab
 - SketchUp
-
 
 ### 3D Printing
 - Cura - https://ultimaker.com/en/products/cura-software
