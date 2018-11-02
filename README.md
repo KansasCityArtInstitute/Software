@@ -4,6 +4,7 @@ Here you will find software for all your needs and includes many include user ma
 Every software without a price label is free!<br>
 <br>
 *Happy Browsing!*
+<br>
 
 ## Table of Contents
 1. [Highlights](#highlights)
@@ -20,14 +21,14 @@ Every software without a price label is free!<br>
 <br>
 
 # Highlights
-[Processing](#processing)
-[p5](#p5)
-[Arduino](#arduino)
-[Particle](#particle)
-[MAX](#max)
-[Rhino](#rhino)
-[Unity](#unity)
-[Resolume](#resolume)
+[Processing](#processing)<br>
+[p5](#p5)<br>
+[Arduino](#arduino)<br>
+[Particle](#particle)<br>
+[MAX](#max)<br>
+[Rhino](#rhino)<br>
+[Unity](#unity)<br>
+[Resolume](#resolume)<br>
 [Example List](http://medialappi.net/lab/equipment/)
 ***
 <br/>
