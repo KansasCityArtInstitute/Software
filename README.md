@@ -204,10 +204,10 @@ Processing is a flexible software sketchbook and a language for learning how to 
 <br/>
 
 ### 3D Printing
-* Cura - https://ultimaker.com/en/products/cura-software
-* [Download | MakerBot Desktop (Software) | MakerBot Support](https://support.makerbot.com/troubleshooting/makerbot-desktop-software/software-download/download_12190)
-* [Download now - Repetier Software](https://www.repetier.com/download-now/)
-* [Installing MakerWare for Digitizer | MakerBot Digitizer | MakerBot Support](https://support.makerbot.com/learn/makerbot-digitizer/getting-started/installing-makerware-for-digitizer_11812)
+* [Cura](https://ultimaker.com/en/products/cura-software)
+* [MakerBot Desktop](https://support.makerbot.com/troubleshooting/makerbot-desktop-software/software-download/download_12190)
+* [Repetier](https://www.repetier.com/download-now/)
+* [MakerWare for Digitizer](https://support.makerbot.com/learn/makerbot-digitizer/getting-started/installing-makerware-for-digitizer_11812)
 
 ### A/V
 - CoGe VJ
