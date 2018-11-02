@@ -1,6 +1,7 @@
 # Software Recources & References
 *Welcome to the IA Software Page*<br>
 Here you will find software for all your needs and includes many include user manuals and tutorials.<br>
+Please help add to our resources. [Learn Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) (the language github uses).
 Every software without a price label is free!<br>
 <br>
 *Happy Browsing! Don't forget to [checkout](https://docs.google.com/forms/d/e/1FAIpQLSeKw-BdUHAGEWXEVWURaea8MHVTIy4Whx5olIf88-iWBlXkCg/viewform#responses)!*
