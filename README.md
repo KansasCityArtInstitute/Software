@@ -22,7 +22,7 @@ Every software without a price label is free!<br>
 
 # Highlights
 [Processing](#processing)<br>
-[p5](#p5.js)<br>
+[p5](#p5)<br>
 [Arduino](#arduino)<br>
 [Particle](#particle)<br>
 [MAX](#max)<br>
@@ -35,7 +35,7 @@ Every software without a price label is free!<br>
 <br/>
 
 ## Creative Coding
-### Processing (JAVA)
+### Processing
 Processing is a flexible software sketchbook and a language for learning how to code within the context of the visual arts. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.
 
 - Free to download and open source
@@ -50,7 +50,8 @@ Processing is a flexible software sketchbook and a language for learning how to 
 * [Tutorials](https://processing.org/tutorials/)
 * Bonus Tutorials: [The Coding Train by Daniel Shiffman](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 
-### p5.js (Javascript)
+### p5
+* *Javascript*, Open Source, Free
 * [Website](https://p5js.org)
 * [Reference](https://p5js.org/reference/)
 * [Tutorials](https://p5js.org/learn/)
@@ -61,6 +62,7 @@ Processing is a flexible software sketchbook and a language for learning how to 
 * [Tutorials](https://cycling74.com/tutorials/page/1)
 
 ### Twine
+* *Javascript*, Open Source, Free
 * [Website](http://twinery.org)
 ***
 <br/>
