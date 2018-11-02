@@ -22,7 +22,7 @@ Every software without a price label is free!<br>
 
 # Highlights
 [Processing](#processing)<br>
-[p5](#p5)<br>
+[p5](#p5.js)<br>
 [Arduino](#arduino)<br>
 [Particle](#particle)<br>
 [MAX](#max)<br>
@@ -35,18 +35,31 @@ Every software without a price label is free!<br>
 <br/>
 
 ## Creative Coding
-### Processing
+### Processing (JAVA)
+Processing is a flexible software sketchbook and a language for learning how to code within the context of the visual arts. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.
+
+- Free to download and open source
+- Interactive programs with 2D, 3D, PDF, or SVG output
+- OpenGL integration for accelerated 2D and 3D
+- For GNU/Linux, Mac OS X, Windows, Android, and ARM
+- Over 100 libraries extend the core software 
+- Well documented, with many books available
+
 * [Website](https://processing.org)
 * [Reference](https://processing.org/reference/)
 * [Tutorials](https://processing.org/tutorials/)
-### p5
+* Bonus Tutorials: [The Coding Train by Daniel Shiffman](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+
+### p5.js (Javascript)
 * [Website](https://p5js.org)
 * [Reference](https://p5js.org/reference/)
 * [Tutorials](https://p5js.org/learn/)
-### Max 
+
+### MAX 
 * ***$10/month***
 * [Website](https://cycling74.com/products/max/)
 * [Tutorials](https://cycling74.com/tutorials/page/1)
+
 ### Twine
 * [Website](http://twinery.org)
 ***
