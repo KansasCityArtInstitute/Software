@@ -1,164 +1,184 @@
 # Software Recources & References
-*Welcome to the IA Software Page*
-Here you will find software for all your needs and includes many include user manuals and tutorials.
-Every software without a price label is free!
-
+*Welcome to the IA Software Page*<br>
+Here you will find software for all your needs and includes many include user manuals and tutorials.<br>
+Every software without a price label is free!<br>
+<br>
 *Happy Browsing!*
 
 ## Table of Contents
-[Highlights](#highlights)<br/>
-[Game Engines](#game-engines)<br/>
-[Creative Coding](#creative-coding)<br/>
-[Hardware IDE](#hardware-ide)<br/>
-[Audio Editing](#audio-editing)<br/>
-[Text Editors](#text-editors)<br/>
-[3D Modeling](#3d-modeling) <br/>
-[Generative Audio](#generative-audio)<br/>
-[Projection](#projection)<br/>
-[Adobe Alternative](#adobe-alternative)<br/>
+1. [Highlights](#highlights)
+2. [Creative Coding](#creative-coding)
+3. [Hardware IDE](#hardware-ide)
+4. [Audio Editing](#audio-editing)
+5. [Text Editors](#text-editors)
+6. [Game Engines](#game-engines)
+7. [3D Modeling](#3d-modeling) 
+8. [Generative Audio](#generative-audio)
+9. [Projection](#projection)
+10. [Other](#other)
 ***
-
+<br>
 
 # Highlights
-[Processing](#processing)<br/>
-[p5](#p5)<br/>
-[Arduino](#arduino)<br/>
-[Particle](#particle)<br/>
-[MAX](#max)<br/>
-[Rhino](#rhino)<br/>
-[Unity](#unity)<br/>
-[Resolume](#resolume)<br/>
+[Processing](#processing)
+[p5](#p5)
+[Arduino](#arduino)
+[Particle](#particle)
+[MAX](#max)
+[Rhino](#rhino)
+[Unity](#unity)
+[Resolume](#resolume)
 [Example List](http://medialappi.net/lab/equipment/)
 ***
+<br/>
+<br/>
 
 ## Creative Coding
 ### Processing
--[Website](https://processing.org)
--[Reference](https://processing.org/reference/)
--[Tutorials](https://processing.org/tutorials/)
+* [Website](https://processing.org)
+* [Reference](https://processing.org/reference/)
+* [Tutorials](https://processing.org/tutorials/)
 ### p5
--[Website](https://p5js.org)
--[Reference](https://p5js.org/reference/)
--[Tutorials](https://p5js.org/learn/)
+* [Website](https://p5js.org)
+* [Reference](https://p5js.org/reference/)
+* [Tutorials](https://p5js.org/learn/)
 ### Max 
--$10/month
--[Website](https://cycling74.com/products/max/)
--[Tutorials](https://cycling74.com/tutorials/page/1)
+* ***$10/month***
+* [Website](https://cycling74.com/products/max/)
+* [Tutorials](https://cycling74.com/tutorials/page/1)
 ### Twine
--[Website](http://twinery.org)
+* [Website](http://twinery.org)
 ***
+<br/>
+
 ## Hardware IDE
 ### Arduino
--[Website](http://www.arduino.cc)
+* [Website](http://www.arduino.cc)
 ### Particle
--[Website](http://www.particle.io)
+* [Website](http://www.particle.io)
 ***
+<br/>
+
 ## Text-Editors 
 ### Atom
--[Website](https://atom.io)
+* [Website](https://atom.io)
 ### Visual Studio IDE (C#)
--[Website](https://visualstudio.microsoft.com/vs/)
+* [Website](https://visualstudio.microsoft.com/vs/)
 ### Visual Studio Code (multi language)
--[Website](https://code.visualstudio.com/?wt.mc_id=DX_841432)
+* [Website](https://code.visualstudio.com/?wt.mc_id=DX_841432)
 ### Brackets
--[Website](http://brackets.io)
+* [Website](http://brackets.io)
 ### Sublime Text
--[Website](https://www.sublimetext.com)
+* [Website](https://www.sublimetext.com)
 ***
+<br/>
+
 ## 3D-Modeling
 ### Blender 
--[Website](blender.org)
--[References](https://docs.blender.org/manual/en/dev/index.html)
--[Tutorials](https://www.blender.org/support/tutorials/)
--[Bonus Tutorials](https://www.blenderguru.com/tutorials)
+* [Website](blender.org)
+* [References](https://docs.blender.org/manual/en/dev/index.html)
+* [Tutorials](https://www.blender.org/support/tutorials/)
+* [Bonus Tutorials](https://www.blenderguru.com/tutorials)
 ### Rhino
--$200
--[Website](https://www.rhino3d.com)
--[Tutorials](https://www.rhino3d.com/tutorials)
+* ***$200***
+* [Website](https://www.rhino3d.com)
+* [Tutorials](https://www.rhino3d.com/tutorials)
 ### Fusion360
--[Website](https://www.autodesk.com/products/fusion-360/students-teachers-educators)
--[Tutorials](https://www.autodesk.com/products/fusion-360/get-started)
+* [Website](https://www.autodesk.com/products/fusion-360/students-teachers-educators)
+* [Tutorials](https://www.autodesk.com/products/fusion-360/get-started)
 ### Mesh Mixer
--[Website](http://www.meshmixer.com)
--[Reference](https://help.autodesk.com/view/MSHMXR/2019/ENU/)
--[Tutorials](https://www.youtube.com/user/meshmixer/videos)
+* [Website](http://www.meshmixer.com)
+* [Reference](https://help.autodesk.com/view/MSHMXR/2019/ENU/)
+* [Tutorials](https://www.youtube.com/user/meshmixer/videos)
+
+#### More: Cinema 4D, Meshlab, Sketchup
 ***  
+<br/>
+
 ## Game Engines
 ### Unity 
--[Website](https://unity3d.com)
--[Reference](https://docs.unity3d.com/ScriptReference/index.html)
--[Tutorials](https://unity3d.com/learn/tutorials)
+* [Website](https://unity3d.com)
+* [Reference](https://docs.unity3d.com/ScriptReference/index.html)
+* [Tutorials](https://unity3d.com/learn/tutorials)
 ### Unreal 
--[Website](https://www.unrealengine.com/en-US/what-is-unreal-engine-4)
--[Reference](https://docs.unrealengine.com/en-us/)
--[Tutorials](https://academy.unrealengine.com)
+* [Website](https://www.unrealengine.com/en-US/what-is-unreal-engine-4)
+* [Reference](https://docs.unrealengine.com/en-us/)
+* [Tutorials](https://academy.unrealengine.com)
 ### Godot 
--[Website](https://godotengine.org)
--[Reference](http://docs.godotengine.org/en/3.0/)
+* [Website](https://godotengine.org)
+* [Reference](http://docs.godotengine.org/en/3.0/)
 ### Stencyl
--[Website](http://stencyl.com)
+* [Website](http://stencyl.com)
 ### Gamemaker Studio 
- -$40 to $400
- -[Website](https://www.yoyogames.com/gamemaker)
--[Reference](http://docs2.yoyogames.com/)
--[Tutorials](https://www.yoyogames.com/learn)
+ * ***$40 to $400***
+ * [Website](https://www.yoyogames.com/gamemaker)
+* [Reference](http://docs2.yoyogames.com/)
+* [Tutorials](https://www.yoyogames.com/learn)
 ***
+<br/>
+
 ## Projection 
 ### Resolume
-- Arena
--[Website](https://resolume.com)
--[Tutorials](https://resolume.com/training/1)
+***Arena***
+* [Website](https://resolume.com)
+* [Tutorials](https://resolume.com/training/1)
 ### Touch Designer 
--[Website](https://www.derivative.ca)
--[Tutorials](https://derivative.ca/wiki088/index.php?title=Category:Tutorials)
+* [Website](https://www.derivative.ca)
+* [Tutorials](https://derivative.ca/wiki088/index.php?title=Category:Tutorials)
 ### MadMapper 
-- $40/month
--[Website](https://madmapper.com/madmapper/)
--[Tutorials](https://madmapper.com/tutorials/)
+* ***$40/month***
+* [Website](https://madmapper.com/madmapper/)
+* [Tutorials](https://madmapper.com/tutorials/)
+
+#### More: Modul8
 ***
+<br/>
+
 ## Generative-Audio
 ### Sonic Pi
--[Website](https://sonic-pi.net)
--[Tutorials](https://sonic-pi.net/tutorial.html)
+* [Website](https://sonic-pi.net)
+* [Tutorials](https://sonic-pi.net/tutorial.html)
 ### chucK
--[Website](http://chuck.cs.princeton.edu)
--[Reference](http://chuck.cs.princeton.edu/doc/learn/)
+* [Website](http://chuck.cs.princeton.edu)
+* [Reference](http://chuck.cs.princeton.edu/doc/learn/)
 ### Tidal Cycles
--[Website](https://tidalcycles.org)
--[Reference](https://tidalcycles.org/functions.html)
--[Tutorials](https://tidalcycles.org/patterns.html)
+* [Website](https://tidalcycles.org)
+* [Reference](https://tidalcycles.org/functions.html)
+* [Tutorials](https://tidalcycles.org/patterns.html)
 ### Super Collider
--[Website](https://supercollider.github.io)
+* [Website](https://supercollider.github.io)
 ***
+<br/>
+
 ## Audio-Editing
 ### Ableton Live
- - $99 min
- -[Website](https://www.ableton.com/en/)
--[Tutorials](https://www.ableton.com/en/live/learn-live/)
+ * ***$99 min***
+ * [Website](https://www.ableton.com/en/)
+* [Tutorials](https://www.ableton.com/en/live/learn-live/)
 ### Reaper
- -$60
--[Website](https://www.reaper.fm)
--[Tutorials](https://www.reaper.fm/videos.php)
+* ***$60***
+* [Website](https://www.reaper.fm)
+* [Tutorials](https://www.reaper.fm/videos.php)
 ***
+<br/>
+
+# Other
+
 ## Adobe-Alternatives
 ### Affinity Designer 
--$50 (Replaces Illustrator)
--[Desktop](https://affinity.serif.com/en-us/designer/desktop/)
--[Ipad](https://affinity.serif.com/en-us/designer/ipad/)
--[Desktop Tutorials](https://vimeo.com/album/3062024)
--[Ipad Tutorials](https://affinity.serif.com/en-us/tutorials/designer/ipad/)
+* ***$50*** (Replaces Illustrator)
+* [Desktop](https://affinity.serif.com/en-us/designer/desktop/)
+* [Ipad](https://affinity.serif.com/en-us/designer/ipad/)
+* [Desktop Tutorials](https://vimeo.com/album/3062024)
+* [Ipad Tutorials](https://affinity.serif.com/en-us/tutorials/designer/ipad/)
 ### Affinity Photo 
--$50 (Replaces Photoshop)
--[Desktop](https://affinity.serif.com/en-us/photo/desktop/)
--[Ipad](https://affinity.serif.com/en-us/photo/ipad/)
--[Desktop Tutorials](https://vimeo.com/album/4033881)
--[Ipad Tutorials](https://affinity.serif.com/en-us/tutorials/photo/ipad/)
+* ***$50*** (Replaces Photoshop)
+* [Desktop](https://affinity.serif.com/en-us/photo/desktop/)
+* [Ipad](https://affinity.serif.com/en-us/photo/ipad/)
+* [Desktop Tutorials](https://vimeo.com/album/4033881)
+* [Ipad Tutorials](https://affinity.serif.com/en-us/tutorials/photo/ipad/)
 ***
-# Other Software
- (In progress)
-- Cinema 4D
-- Meshlab
-- SketchUp
+<br/>
 
 ### 3D Printing
 - Cura - https://ultimaker.com/en/products/cura-software
@@ -199,9 +219,6 @@ Every software without a price label is free!
 ### Electronics/PCB
 - Fritzing - http://fritzing.org/home/
 - Eagle
-
-### Projection Mapping
-- Modul8
 
 ### MIDI/OSC 
 - Vezer - http://www.vezer.hu
