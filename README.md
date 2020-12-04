@@ -238,6 +238,21 @@ Processing is a flexible software sketchbook and a language for learning how to 
 ### Web
 - Three.js - https://threejs.org/
 - Node.js - https://nodejs.org/en/
+- Paper.js
+- P5JS
+- NPM
+- Node.js
+- Glitch
+- Vanta
+- Proton
+- Socket.io
+- ZeroTier
+- Particles.js
+- fullPage.js
+- Wix
+- Squarespace
+- Paperspace
+- Bluehost
 
 ### Electronics/PCB
 - Fritzing - http://fritzing.org/home/
