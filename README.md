@@ -24,18 +24,44 @@ Every software without a price label is free!<br>
 
 # Highlights
 [Processing](#processing)<br>
-[p5](#p5)<br>
+[TouchDesigner](#touchdesigner)
+[MAX](#max)<br>
 [Arduino](#arduino)<br>
 [Particle](#particle)<br>
-[MAX](#max)<br>
 [Rhino](#rhino)<br>
 [Unity](#unity)<br>
-[Resolume](#resolume)<br>
+<br>
 ***
 <br/>
 <br/>
 
-## Creative Coding
+# Programming Languages
+
+### HTML & CSS
+
+### Javascript
+See libraries and frameworks file [./javascript.md]
+
+### JAVA
+See Processing
+
+### C, C++
+See Arduino, Unity
+
+## Other
+
+### Rust
+* [Rust Main Website](https://www.rust-lang.org/)
+
+### GO
+* [Play Website](https://play.golang.org/)
+
+### Blockly
+
+### Markdown
+* 
+
+## Creative Coding 
 ### Processing
 Processing is a flexible software sketchbook and a language for learning how to code within the context of the visual arts. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.
 
@@ -49,6 +75,7 @@ Processing is a flexible software sketchbook and a language for learning how to 
 * [Website](https://processing.org)
 * [Reference](https://processing.org/reference/)
 * [Tutorials](https://processing.org/tutorials/)
+
 * Bonus Tutorials: [The Coding Train by Daniel Shiffman](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 * [Spacebrew](http://docs.spacebrew.cc/)
 * [Processing.js](http://processingjs.org/)
@@ -56,21 +83,19 @@ Processing is a flexible software sketchbook and a language for learning how to 
 * [The Hype Framework | Joshua Davis](https://www.hypeframework.com/)
 * [Processing | Processing on the Raspberry Pi & PiTFT | Adafruit Learning System](https://learn.adafruit.com/processing-on-the-raspberry-pi-and-pitft/processing)
 
-### p5
-* *Javascript*, Open Source, Free
-* [Website](https://p5js.org)
-* [Reference](https://p5js.org/reference/)
-* [Tutorials](https://p5js.org/learn/)
+### TouchDesigner 
+* Node-based, Free for educational, 
+* [Website](https://www.derivative.ca)
+* [Tutorials](https://derivative.ca/wiki088/index.php?title=Category:Tutorials)
+* [Interactive Immersive HQ](https://interactiveimmersive.io/)
 
 ### MAX 
 * ***$10/month***
 * [Website](https://cycling74.com/products/max/)
 * [Tutorials](https://cycling74.com/tutorials/page/1)
 
-### Twine
-* *Javascript*, Open Source, Free
-* [Website](http://twinery.org)
 ***
+
 <br/>
 
 ## Hardware IDE
@@ -137,6 +162,9 @@ Processing is a flexible software sketchbook and a language for learning how to 
  * [Website](https://www.yoyogames.com/gamemaker)
 * [Reference](http://docs2.yoyogames.com/)
 * [Tutorials](https://www.yoyogames.com/learn)
+### Twine
+* *Javascript*, Open Source, Free
+* [Website](http://twinery.org)
 ***
 <br/>
 
@@ -145,9 +173,6 @@ Processing is a flexible software sketchbook and a language for learning how to 
 ***Arena***
 * [Website](https://resolume.com)
 * [Tutorials](https://resolume.com/training/1)
-### Touch Designer 
-* [Website](https://www.derivative.ca)
-* [Tutorials](https://derivative.ca/wiki088/index.php?title=Category:Tutorials)
 ### MadMapper 
 * ***$40/month***
 * [Website](https://madmapper.com/madmapper/)
@@ -342,4 +367,5 @@ Processing is a flexible software sketchbook and a language for learning how to 
 - VideoCast
 - Wireshark
 
-[Example List](http://medialappi.net/lab/equipment/)
+
+
