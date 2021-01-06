@@ -2,16 +2,16 @@
 [JavaScript](https://www.javascript.com/), often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
 
 ## [Top Best JS Frameworks 2020](https://hackr.io/blog/best-javascript-frameworks)
-* [Angular](https://angular.io/) - Single page websites, written by Google.
-* [React](https://reactjs.org/) – For building dynamic user interfaces, created by Facebook.
-* [Vue](https://vuejs.org/) - Easy integration for Single Page Applications.
-* [Ember](https://www.emberjs.com/) - Two-way data binding for complicated User Interfaces.
-* [Meteor](https://www.meteor.com/) - Back-end development, database management, business logic.
-* [Mithril](https://mithril.js.org/) - Client-side framework for Single Page Applications, with few features, but very fast.
-* [Node](https://nodejs.org/en/) - Powerful server-side JS run-time environment. Asynchronous I/O with event-driven architecture.
-* [Polymer](https://www.polymer-project.org/) - Open source library for creating reusable HTML elements, written by Google.
-* [Aurelia](https://aurelia.io/) - Clean, modern architecture under MIT license. 
-* [Backbone](http://backbonejs.org/) - One of the most popular, effortless, and easy to learn frameworks for Single Page Applications.
+1 [Angular](https://angular.io/) - Single page websites, written by Google.
+2 [React](https://reactjs.org/) – For building dynamic user interfaces, created by Facebook.
+3 [Vue](https://vuejs.org/) - Easy integration for Single Page Applications.
+4 [Ember](https://www.emberjs.com/) - Two-way data binding for complicated User Interfaces.
+5 [Meteor](https://www.meteor.com/) - Back-end development, database management, business logic.
+6 [Mithril](https://mithril.js.org/) - Client-side framework for Single Page Applications, with few features, but very fast.
+7 [Node](https://nodejs.org/en/) - Powerful server-side JS run-time environment. Asynchronous I/O with event-driven architecture.
+8 [Polymer](https://www.polymer-project.org/) - Open source library for creating reusable HTML elements, written by Google.
+9 [Aurelia](https://aurelia.io/) - Clean, modern architecture under MIT license. 
+10 [Backbone](http://backbonejs.org/) - One of the most popular, effortless, and easy to learn frameworks for Single Page Applications.
 
 ## Tutorials and Examples
 * [W3Schools Tutorials](https://www.w3schools.com/js/DEFAULT.asp)
@@ -26,11 +26,11 @@
 * [A Frame](https://aframe.io/) - A web framework for building virtual reality experiences.
 * [three](https://threejs.org/) - 2D and 3D cross-browser library and API for animations. WebGL-based.
 * [Anime](https://animejs.com/) - Simple and powerful animation library.
-* [Paper](http://paperjs.org/)
+* [Paper](http://paperjs.org/) - Vector graphics and animation.
 
 
 ## Other Libraries and Frameworks
-* [Bounce](http://bouncejs.com/) - Animation  
+* [Bounce](http://bouncejs.com/) - Simple animation in CSS3 style.
 * [jQuery](https://jquery.com/) - The Write Less, Do More, JavaScript Library.
 * [Svelte](https://svelte.dev/) - A tool for building fast web applications.
 * [Bootstrap](https://getbootstrap.com/) - Quickly design and customize responsive mobile-first sites 
@@ -54,11 +54,11 @@
 
 
 ### Node Packet Manager
-[npm](https://www.npmjs.com/)
+[npm](https://www.npmjs.com/) - Packet manager from Github. npm is the default package manager for the JavaScript runtime environment Node.js.
 
 ### Nodes
 * [Express](https://expressjs.com/) - Basic framework
-* [Node-RED](https://nodered.org/)
+* [Node-RED](https://nodered.org/) - Internet of Things (IoT) node-based programming for smart automation
 * [Cypress](https://www.cypress.io/) - JS Testing
 * [GraphQL](https://graphql.org/code/#javascript) - Query language for APIs
 * [Proton](https://www.npmjs.com/package/proton-js) - Particles
