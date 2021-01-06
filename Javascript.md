@@ -18,52 +18,49 @@
 * [Learn HTML5, CSS3, Javascript - video style tutorials](http://thecodeplayer.com/)
 * [Create a new fiddle - JSFiddle](https://jsfiddle.net/)
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
+* [Babel](https://babeljs.io/) - Online JS Compiler
 
 ## JS Library Highlights
-* [Paper.js — Examples](http://paperjs.org/examples/)
-* [WebVR] - VR for web browsers.
+* [P5](https://p5js.org) - Open source, free framework based on Processing language.
+* [WebVR](https://experiments.withgoogle.com/collection/webvr) - VR experiments for web browsers.
+* [A Frame](https://aframe.io/) - A web framework for building virtual reality experiences.
 * [three](https://threejs.org/) - 2D and 3D cross-browser library and API for animations. WebGL-based.
-* [Anime] - Simple and powerful animation library.
+* [Anime](https://animejs.com/) - Simple and powerful animation library.
+* [Paper](http://paperjs.org/)
 
-### P5
-* *Javascript*, Open Source, Free
-* [Website](https://p5js.org)
-* [Reference](https://p5js.org/reference/)
-* [Tutorials](https://p5js.org/learn/)
 
 ## Other Libraries and Frameworks
-* [A Frame] - 
-* [Bounce] - Animation  
-* [jQuery] - 
-* [Svelte] - 
-* [Bootstrap] - 
-* [InfoVis] - 
-* [D3] - 
-* [Pixi] - 
-* [SWFObject] - 
-* [DOJO Toolkit] - 
-* [Velocity] - Web animation made fast, free, and open on mobile and other devices.
-* [Socket.io] - Event-based two-way communication between server and browser window.
-* [Verge3D] - Toolkit for developing 3D visualizations, animation, AR/VR, and more.
-* [Modernizr] - Toolkit for browser feature detection.
-* [Parsley] - 
-* [QUnit] - JS code testing tool.
-* [fullPage] - Full page, single scroll web pages.
-* [ml5] - Machine Learning in JS.
-* [Vanta] - 
-* [Framer] - 
-* [Blueprint] - 
-* [Canvas-nest] - 
-* [Particles] - 
-* [Proton] - 
-* [Express] - 
+* [Bounce](http://bouncejs.com/) - Animation  
+* [jQuery](https://jquery.com/) - The Write Less, Do More, JavaScript Library.
+* [Svelte](https://svelte.dev/) - A tool for building fast web applications.
+* [Bootstrap](https://getbootstrap.com/) - Quickly design and customize responsive mobile-first sites 
+* [InfoVis](http://philogb.github.io/jit/) - Provides tools for creating Interactive Data Visualizations for the Web.
+* [D3](https://d3js.org/) - Data-Driven Documents
+* [Pixi](https://www.pixijs.com/) - 2D WebGL Renderer
+* [DOJO Toolkit](https://dojotoolkit.org/) - Web App Toolkit
+* [Velocity](http://velocityjs.org/) - Web animation made fast, free, and open on mobile and other devices.
+* [Socket.io](http://socket.io/) - Event-based two-way communication between server and browser window.
+* [Verge3D](https://www.soft8soft.com/verge3d/) - Toolkit for developing 3D visualizations, animation, AR/VR, and more.
+* [Modernizr](https://modernizr.com/) - Toolkit for browser feature detection.
+* [Parsley](https://parsleyjs.org/) - Form Validation
+* [QUnit](https://qunitjs.com/) - JS code testing tool.
+* [fullPage](https://alvarotrigo.com/fullPage/#page1) - Full page, single scroll web pages.
+* [ml5](https://ml5js.org/) - Machine Learning in JS.
+* [Vanta](https://www.vantajs.com/) - Animated 3D Backgrounds
+* [Framer](https://hackdesign.org/toolkit/framer-js) - A prototyping tool for animation and interaction on desktop and mobile.
+* [Blueprint](https://blueprintjs.com/) - React-based UI toolkit
+* [Particles](https://vincentgarreau.com/particles.js/) - Lightweight framework for particle creation
+* [Next](https://nextjs.org/) - React Framework for Production:  hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more.
+
 
 ### Node Packet Manager
 [npm](https://www.npmjs.com/)
 
 ### Nodes
+* [Express](https://expressjs.com/) - Basic framework
 * [Node-RED](https://nodered.org/)
-
-
-* [threenodes.js - Google Search](https://www.google.com/search?q=threenodes.js&oq=threenode&aqs=chrome.0.0j69i65j69i57j0l3.5765j0j7&sourceid=chrome&ie=UTF-8)
-
+* [Cypress](https://www.cypress.io/) - JS Testing
+* [GraphQL](https://graphql.org/code/#javascript) - Query language for APIs
+* [Proton](https://www.npmjs.com/package/proton-js) - Particles
+* [Jest](https://jestjs.io/en/) - JS Testing Framework
+* [threenodes.js](https://idflood.github.io/ThreeNodes.js/) - Node-based WebGL
