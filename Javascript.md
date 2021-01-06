@@ -2,16 +2,16 @@
 [JavaScript](https://www.javascript.com/), often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
 
 ## [Top Best JS Frameworks 2020](https://hackr.io/blog/best-javascript-frameworks)
-1 [Angular](https://angular.io/) - Single page websites, written by Google.
-2 [React](https://reactjs.org/) – For building dynamic user interfaces, created by Facebook.
-3 [Vue](https://vuejs.org/) - Easy integration for Single Page Applications.
-4 [Ember](https://www.emberjs.com/) - Two-way data binding for complicated User Interfaces.
-5 [Meteor](https://www.meteor.com/) - Back-end development, database management, business logic.
-6 [Mithril](https://mithril.js.org/) - Client-side framework for Single Page Applications, with few features, but very fast.
-7 [Node](https://nodejs.org/en/) - Powerful server-side JS run-time environment. Asynchronous I/O with event-driven architecture.
-8 [Polymer](https://www.polymer-project.org/) - Open source library for creating reusable HTML elements, written by Google.
-9 [Aurelia](https://aurelia.io/) - Clean, modern architecture under MIT license. 
-10 [Backbone](http://backbonejs.org/) - One of the most popular, effortless, and easy to learn frameworks for Single Page Applications.
+1. [Angular](https://angular.io/) - Single page websites, written by Google.
+2. [React](https://reactjs.org/) – For building dynamic user interfaces, created by Facebook.
+3. [Vue](https://vuejs.org/) - Easy integration for Single Page Applications.
+4. [Ember](https://www.emberjs.com/) - Two-way data binding for complicated User Interfaces.
+5. [Meteor](https://www.meteor.com/) - Back-end development, database management, business logic.
+6. [Mithril](https://mithril.js.org/) - Client-side framework for Single Page Applications, with few features, but very fast.
+7. [Node](https://nodejs.org/en/) - Powerful server-side JS run-time environment. Asynchronous I/O with event-driven architecture.
+8. [Polymer](https://www.polymer-project.org/) - Open source library for creating reusable HTML elements, written by Google.
+9. [Aurelia](https://aurelia.io/) - Clean, modern architecture under MIT license. 
+10. [Backbone](http://backbonejs.org/) - One of the most popular, effortless, and easy to learn frameworks for Single Page Applications.
 
 ## Tutorials and Examples
 * [W3Schools Tutorials](https://www.w3schools.com/js/DEFAULT.asp)
